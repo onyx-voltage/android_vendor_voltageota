@@ -1,0 +1,35 @@
+18-10-2026
+
+- Added Leica Cam.
+- Fixed offline charging
+- Added MiuiGallery as system app
+- Removed unused services
+- Address more sepolicy denials
+- Pin core system files via PinnerService
+- Fix FP unlock ripple animation effect
+- Set Qualcomm hardware media parser to 16777215
+- Set min_free_kbytes configuration for 12GB target
+- Set ZRAM swappiness to 60
+- Tune LMKD properties for better app keeping
+- Replace writepid with task_profiles command
+- Enable CameraX extensions support
+- Other more changes and improvements.
+
+25-7-2026
+
+- added miuicamera
+- added NotGameTurbo app
+- fixed Whatsapp volume control
+- fixed lags on qs
+- adjust cpu uclamp
+- fixed lag on 60hz only refresh rate mode
+
+12-06-2026
+
+- Added local updater and OTA update
+- Optimized CPU uclamp behavior with CASS hinting and added NNAPI HAL performance support.
+- Removed obsolete NXP AuthSecret HAL SELinux label to clean up vendor sepolicy.
+
+17-05-2026
+
+- initail unofficial release

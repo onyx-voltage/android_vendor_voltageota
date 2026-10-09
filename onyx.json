@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "k4lchakra | Romgharti",
+        "oem": "Xiaomi",
+        "device": "POCO F7",
+        "filename": "voltage-6.2-onyx-20261018-0132-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/onyx-development/files/voltageos/17/voltage-6.2-onyx-20261018-0132-UNOFFICIAL.zip/download",
+        "timestamp": 1792286943,
+        "md5": "0c932e99ff861808c854e11cdb902e85",
+        "size": 3776779769,
+        "version": "6.2"
+    }
+  ]
+}
